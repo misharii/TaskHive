@@ -67,7 +67,7 @@ npm run dev
 ## Screenshots
 
 ### Dashboard
-<img src="images/Screenshots/Screenshot_Dashboard.png" alt="Dashboard" width="800">
+<img src="images/Screenshots/Screenshot_dashboard.png" alt="Dashboard" width="800">
 
 ### Kanban Board
 <img src="images/Screenshots/Screenshot_kanban.png" alt="Kanban Board" width="800">
